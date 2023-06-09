@@ -11,8 +11,8 @@ library(quantmod)
 library(vars)
 
 # Inputs - EIKON (Thomson & Reuters)
-df1 <- read.csv2(file="df1.csv", sep = ',', header = TRUE)
-df2 <- read.csv2("df2.csv", sep=',', header = TRUE)
+df1 <- read.csv2(file="data/df1.csv", sep = ',', header = TRUE)
+df2 <- read.csv2("data/df2.csv", sep=',', header = TRUE)
 
 ## Prepare data
 colnames(df1) <- paste(sep = '_', colnames(df1), as.character(unlist(df1[1,])))
