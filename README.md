@@ -1,4 +1,4 @@
-# EnergyMarketEurope
+# EnergyMarketEurope2021
 
 ## Summary
 In 2021, a historic surge was observed in electricity prices across Europe. A quantitative assessment reveals a 250% increase in the cost of electricity from January onwards, with a 70% hike observed from August alone. There are multifarious explanations provided for this unprecedented rise. 
